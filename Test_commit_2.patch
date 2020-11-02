@@ -1,0 +1,13 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision 33acc877a9eb2920ed8cc6fb585425f2e8ef72f7)
++++ README.md	(date 1604312586920)
+@@ -1,4 +1,4 @@
+-# Carousel for Angular Test
++# Carousel for Angular Test Branch
+ 
+ <img src="https://badgen.net/bundlephobia/min/angular-responsive-carousel" />
+ 

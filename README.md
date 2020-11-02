@@ -1,4 +1,4 @@
-# Carousel for Angular Test
+# Carousel for Angular Test Branch
 
 <img src="https://badgen.net/bundlephobia/min/angular-responsive-carousel" />
 
